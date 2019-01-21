@@ -13,6 +13,10 @@ More information about the library's inner workings and underlying math is avail
 
 ## Install
 
+### From Unity's Asset Store
+
+Available at https://assetstore.unity.com/packages/tools/camera/camera-multi-target-dynamic-135922. Via Unity Editor, download and import the CameraMultiTarget folder into your project.
+
 ### By importing CameraMultiTarget.unitypackage
 
 The pre-built package can be downloaded from the repository's releases [here](https://github.com/lopespm/unity-camera-multi-target/releases/latest). After downloading the package, import it to your project via Unity Editor: *Assets -> Import Package -> Custom Package..*.
