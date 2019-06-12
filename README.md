@@ -71,3 +71,9 @@ For example, you can set the targets in your game controller component (if you c
 ## Example Scene
 
 An example scene of the library's usage is included in this repository and in the pre-built package located in the repository's releases.
+
+## Games using Dynamic Multi Target Camera
+
+- [Survival Ball](https://survivalball.com/)
+
+*Did you develop, or know about, a game using this library? Add it here via [pull request](https://github.com/lopespm/unity-camera-multi-target/pulls)*
