@@ -52,7 +52,7 @@ For example, you can set the targets in your game controller component (if you c
 
     public class ExampleGameController : MonoBehaviour
     {
-        public CameraMultiTarget cameraMultiTarget;
+        public Rockbyte.CMT.CameraMultiTarget cameraMultiTarget;
     
         private void Start() {
             var targets = new List<GameObject>();
